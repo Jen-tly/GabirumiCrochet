@@ -1,0 +1,53 @@
+.container {
+	height: 100%;
+	width: 100%;
+	background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imagenes/Background.jpg);
+	background-position: center;
+	background-size: cover;
+	position: absolute;
+}
+.formdatos {
+	color: #f7efe5;
+}
+
+.formdatos form {
+	width: 665px;
+	height: 355px;
+	border-radius: 15px;
+	padding: 0px;
+	margin: 150px auto;
+}
+
+
+.formdatos button {
+	margin: -400px;
+	margin-left: 490px;
+}
+
+.formdatos p {
+	margin: 40px;
+	padding: 70px;
+	font-size: 50px;
+	text-align: center;
+
+}
+Form {
+	font-family: Century Gothic;
+	background-color: #674188;
+    box-shadow: 10px 10px 112px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 10px 10px 112px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 112px 0px rgba(0, 0, 0, 0.75);
+    -ms-box-shadow: 10px 10px 112px 0px rgba(0, 0, 0, 0.75);
+    -o-box-shadow: 10px 10px 112px 0px rgba(0, 0, 0, 0.75);
+}
+.boton {
+	background-color: #c3acd0;
+	border-radius: 15px;
+	width: 150px;
+	height: 40px;
+	color: #fff;
+	font-family: Century Gothic;
+	margin: 10px;
+	margin-left: 185px;
+	cursor: pointer;
+}
